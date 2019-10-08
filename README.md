@@ -1,3 +1,4 @@
+<title>StealerCore</title>
 ## Welcome to StealerCore Official Website
 
 
